@@ -1,3 +1,16 @@
+# MyMusicPlayer
+
+## 演示
+
+#### 搜索
+
+![](https://gitee.com/fintinger/figure-bed/raw/master//images/20210601163908.gif)
+
+#### MV播放
+
+![](https://gitee.com/fintinger/figure-bed/raw/master//images/20210601163943.gif)
+
+
 
 ## 环境要求
 
@@ -6,7 +19,7 @@
 ## 安装
 
 ```shell
-$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+$ git clone git@github.com:Fintinger/MyMusicPlayer.git
 $ npm install
 ```
 
@@ -28,4 +41,20 @@ windows 下使用 git-bash 或者 cmder 等终端执行以下命令:
 $ set PORT=4000 && node app.js
 ```
 
+## 待做
 
+🔘 歌词跟随滚动
+
+🔘 进度条优化(用的默认播放进度条😥)
+
+🔘 样式优化
+
+...
+
+## 此外
+
+感谢大佬[Binaryify](https://github.com/Binaryify/NeteaseCloudMusicApi)开发的API🤝
+
+## License
+
+[The MIT License (MIT)](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/LICENSE)
