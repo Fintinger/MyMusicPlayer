@@ -19,7 +19,7 @@
 ## 安装
 
 ```shell
-$ git clone git@github.com:Fintinger/MyMusicPlayer.git
+$ git clone https://github.com/Fintinger/MyMusicPlayer.git
 $ npm install
 ```
 
