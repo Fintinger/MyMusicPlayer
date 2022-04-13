@@ -20,7 +20,7 @@
 
 ```shell
 $ git clone https://github.com/Fintinger/MyMusicPlayer.git
-$ npm install
+#$ npm install
 ```
 
 ## 运行
